@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elkhami</h1>
-<h3 align="center">A passionate android developer, always seeking to learn more.</h3>
+<h3 align="center">A passionate mobile developer, always seeking to learn more.</h3>
 
-- 🔭 I’m currently working on [Banque Misr](https://play.google.com/store/apps/developer?id=Banque+Misr)
+- I’m currently working at [Mobiquity BV](https://www.mobiquity.com/)
 
-- 👯 I’m have previously worked on [My Etisalat](https://play.google.com/store/apps/details?id=com.etisalat&hl=en&gl=US)
+- I have previously at [Banque Misr](https://play.google.com/store/apps/developer?id=Banque+Misr)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ahmed22dev?tab=repositories](https://github.com/Ahmed22dev?tab=repositories)
+- Also worked at [My Etisalat](https://play.google.com/store/apps/details?id=com.etisalat&hl=en&gl=US)
 
-- 📝 I write articles on Medium [https://medium.com/@ahmedeelkhami](https://medium.com/@ahmedeelkhami)
+- All of my projects are available on [https://github.com/Ahmed22dev?tab=repositories](https://github.com/Ahmed22dev?tab=repositories)
 
-- 💬 Ask me about **Android and its related technologies**
+- I write articles on Medium [https://medium.com/@ahmedeelkhami](https://medium.com/@ahmedeelkhami)
 
-- 📫 How to reach me **ahmedeelkhami@gmail.com**
+- Ask me about **Android and its related technologies**
+
+- How to reach me **ahmedeelkhami@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
