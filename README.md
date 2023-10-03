@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Elkhami</h1>
+<h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A passionate mobile developer, always seeking to learn more.</h3>
 
 - I’m currently working at [Mobiquity BV](https://www.mobiquity.com/)
